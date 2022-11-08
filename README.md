@@ -68,8 +68,9 @@ origin이란 별칭의 원격 저장소로 버전 내역 전송
 
 은 Modified 라는 뜻으로 수정되었다 라는 뜻이 있다
 
+<img width="1440" alt="스크린샷 2022-11-08 오후 12 41 18" src="https://user-images.githubusercontent.com/88579497/200472449-2d84a2cb-7c74-4c98-b69b-25545d468816.png">
 
-<img width="1440" alt="스크린샷 2022-11-08 오후 12 41 18" src="https://user-images.githubusercontent.com/88579497/200472090-f6468fc2-838c-4201-9213-46e02b3d11b0.png">
+
 
 오른쪽 fixed 된 bagge 부분을 수정하였다
 
