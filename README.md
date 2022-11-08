@@ -90,7 +90,8 @@ git add . 를 치고 확인 하면
 
 # 버전으로 만들기
 
-![스크린샷 2022-11-08 오후 12.50.21.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a1f027d-230f-4a39-adf5-3960e3d2373b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.50.21.png)
+![스크린샷 2022-11-08 오후 12 50 21](https://user-images.githubusercontent.com/88579497/200472367-f096e596-1922-49f9-8481-e78cca302b41.png)
+
 
 git commit -m ‘문자’를 하고
 
