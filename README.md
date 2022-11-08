@@ -60,9 +60,13 @@ $git push origin master
 origin이란 별칭의 원격 저장소로 버전 내역 전송
 
 </aside>
-![스크린샷 2022-11-08 오후 12 37 45](https://user-images.githubusercontent.com/88579497/200472051-d902a5c2-bf55-4c96-918b-e2db6be2fe05.png)
+
+
 
 # index.html img를 수정하였다
+![스크린샷 2022-11-08 오후 12 37 45](https://user-images.githubusercontent.com/88579497/200472519-e26629e5-a1b8-4458-9581-d25c5850a41d.png)
+
+
 
 ## index.html 옆에 있는 M
 
