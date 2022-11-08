@@ -60,8 +60,7 @@ $git push origin master
 origin이란 별칭의 원격 저장소로 버전 내역 전송
 
 </aside>
-
-![스크린샷 2022-11-08 오후 12.37.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ecd46ebb-2877-420c-a68b-e03ed7b4127f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.37.45.png)
+![스크린샷 2022-11-08 오후 12 37 45](https://user-images.githubusercontent.com/88579497/200472051-d902a5c2-bf55-4c96-918b-e2db6be2fe05.png)
 
 # index.html img를 수정하였다
 
@@ -69,17 +68,21 @@ origin이란 별칭의 원격 저장소로 버전 내역 전송
 
 은 Modified 라는 뜻으로 수정되었다 라는 뜻이 있다
 
-![스크린샷 2022-11-08 오후 12.41.18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85e7ac70-fd4e-4788-944a-cb5d53b6a2e8/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.41.18.png)
+
+<img width="1440" alt="스크린샷 2022-11-08 오후 12 41 18" src="https://user-images.githubusercontent.com/88579497/200472090-f6468fc2-838c-4201-9213-46e02b3d11b0.png">
 
 오른쪽 fixed 된 bagge 부분을 수정하였다
 
-![스크린샷 2022-11-08 오후 12.42.36.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c51e179-eb76-42f4-926e-e30614d2b78a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.42.36.png)
+![스크린샷 2022-11-08 오후 12 42 36](https://user-images.githubusercontent.com/88579497/200472198-1aae2bb8-993b-4ff8-a8fd-e98bcee45af9.png)
+
 
 실제 터미널에 git status를 치면
 
 index.html 이 수정되었다는 표시를 볼 수 있다
 
-![스크린샷 2022-11-08 오후 12.46.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1253525c-a4f4-42c6-83ae-3f1ed418e24d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.46.59.png)
+
+![스크린샷 2022-11-08 오후 12 46 59](https://user-images.githubusercontent.com/88579497/200472209-5851a633-01fb-4da1-8bce-0f16b74be9e4.png)
+
 
 git add . 를 치고 확인 하면
 
@@ -93,7 +96,8 @@ git commit -m ‘문자’를 하고
 
 git log로 확인 하면 위에 같이 master에 버전이 추가 되었음을 확인
 
-![스크린샷 2022-11-08 오후 12.53.01.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c940eed-702f-4b7a-857a-9a5c3224ae3d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.53.01.png)
+![스크린샷 2022-11-08 오후 12 53 01](https://user-images.githubusercontent.com/88579497/200472308-510f2f95-ffd8-4d84-acbe-85ee80d2a178.png)
+
 
 새롭게 파일을 추가해 보았고
 
