@@ -111,9 +111,15 @@ U라는 단어가 나왔는데 이것은 Untracked file 이라는 뜻으로 새�
 
 
 
-git branch 를 쓰면 
+## branch 로 login branch 버전 관리 및 merge
 
-현재 branch가 어디인지 알려주고 
+
+<aside>
+💡 git branch 를 쓰면
+
+현재 branch가 어디인지 알려주고  **현 branch master**
+
+---
 
 git branch -a를 쓰면 
 
@@ -121,16 +127,16 @@ git branch -a를 쓰면
 
 remotes/origin/master
 
+---
+
 remotes= github 원격 저장소
 
 origin = 저장소에 있는 origin 에 master
 
+---
+
 git branch signin → signin 이라는 branch를 만든다
-
 ![스크린샷 2022-11-09 오후 8 05 19](https://user-images.githubusercontent.com/88579497/200816320-aad83a52-1f55-47fe-a736-c1c291493618.png)
-
-
-
 signin의 브랜취로 이동하려면 
 
 git checkout signin  ⇒
@@ -138,6 +144,8 @@ git checkout signin  ⇒
 Switched to branch 'signin’
 
 master에서 → signin으로 바뀜 
+
+---
 
 signin 폴더를 만들고 폴더안에 index.html을 다시 만듬 
 
@@ -147,6 +155,8 @@ git staus, git add. git commit -m ‘버전 이름’
 
 같은 명령어로 쳐주면 된다 
 
+---
+
 다시 git checkout master로 가게 되면 
 
 signin 폴더와 index.html 파일이 없어지게 졌는데 
@@ -155,7 +165,8 @@ signin 폴더와 index.html 파일이 없어지게 졌는데
 
 아직 merge를 하지 않아서 연결된 상태가 아닌 분리된 상태라는 것
 
+---
+
 보통 테스트가 다 끝나고 연결한다고 한다
 
-
-
+</aside>
