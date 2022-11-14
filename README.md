@@ -170,3 +170,36 @@ signin 폴더와 index.html 파일이 없어지게 졌는데
 보통 테스트가 다 끝나고 연결한다고 한다
 
 </aside>
+
+# git clone 
+
+<aside>
+💡 ls = mac 버전 현재 위치
+
+dir = win 버전 현재 위치
+
+cd .. ⇒ 한단계 올라가기
+
+cd gitclone ⇒ 그 폴더로 이동
+
+desktop 에서 git clone 레파지토리 복북
+
+clone한 레파지토리 폴더 열기 
+
+win 컨트롤 쉬프트 p 
+
+mac 커멘드 쉬프트 p
+
+검색창에 
+
+쉘 명령 : PATH에 ‘code’ 명령 설치 
+
+레파지토리 폴더에 접근 한 후 
+
+cd starbucks_version 
+
+code . ⇒ 새로운 창에 폴더 열기 
+
+code . -r  ⇒ 현재 창에 폴더 열기
+
+</aside>
