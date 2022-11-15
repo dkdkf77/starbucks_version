@@ -203,3 +203,40 @@ code . ⇒ 새로운 창에 폴더 열기
 code . -r  ⇒ 현재 창에 폴더 열기
 
 </aside>
+
+<hr/>
+<aside>
+# git version 되돌리기 및 branch 관련 정보 
+
+
+git reset --hard HEAD~되돌아갈 번호
+
+HEAD = 최신 버전 에서 
+
+~1  1번 뒤로 되돌리겠다 라는 의미 
+
+git reset --hard ORIG_HEAD 
+
+ORIG = origin  _ head
+
+전 head로 리셋 시키는 명령어 컨트롤 Z 같은 명령어
+
+# 다른 환경에서 clone으로 받은 후
+
+없는 branch 로 이동하는 방법 
+
+git branch -r 
+
+git checkout -t origin/branch이름
+
+## 가져 온 branch가 원하는 브랜치가 아닐때
+
+git checkout master로 나간 다음
+
+git branch -d branch 이름 ⇒ 지울 branch 입력
+
+## branch를 생성하는 동시에 그 branch로 이동
+
+git checkout -b 브랜치이름
+
+</aside>
